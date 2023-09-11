@@ -5,6 +5,7 @@ import Home from "./components/Home";
 
 import Services from "./components/Services";
 import Contact from "./components/Contact"
+import Footer from "./components/Footer";
 import "./styles/header.scss";
 import "./styles/App.scss";
 import "./styles/home.scss";
@@ -19,6 +20,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/services" element={<Services />} />
   </Routes>
+  <Footer />
  </Router>
   
   );
