@@ -7,7 +7,7 @@ import Services from "./components/Services";
 import Contact from "./components/Contact"
 import "./styles/header.scss";
 import "./styles/App.scss";
-
+import "./styles/home.scss";
 
 
 function App() {
