@@ -20,7 +20,7 @@ const Header = () => {
 
   </main>
  </nav>
-  )
-}
+  );
+};
 
 export default Header;

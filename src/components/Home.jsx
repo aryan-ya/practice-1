@@ -12,7 +12,7 @@ const Home = () => {
       </div>
 
       <div className="home2">
-        <img src={vg} alt="Graphics" srcset="" />
+        <img src={vg} alt="Graphics"  />
 
         <div>
           <p>
