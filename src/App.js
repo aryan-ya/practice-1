@@ -10,6 +10,8 @@ import "./styles/header.scss";
 import "./styles/App.scss";
 import "./styles/home.scss";
 import "./styles/footer.scss";
+import "./styles/services.scss";
+import "./styles/contact.scss";
 
 
 function App() {
